@@ -284,5 +284,8 @@ p::selection{
         gap: 2rem;
         
     }
+   .contact{
+        padding-top: 7rem;
+    }
    
 }
